@@ -599,6 +599,24 @@
           }
           
 
+    ],
+    "mobiles":[
+
+        {
+            "id":1,
+            "displayName":"Infinix Smart 6 HD (Origin Blue,32 GB)",
+            "price":5799,
+            "basePrice":8999,
+            "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/2/i/c/-original-imaggvx8zyfjwqyb.jpeg?q=70",
+            "dis":35,
+            "f1":"2 GB RAM | 32 GB ROM | Expandable Upto 512 GB",
+            "f2":"16.76 cm (6.6 inch) HD+ Display",
+            "f3":"8MP Rear Camera | 5MP Front Camera",
+            "f4":"5000 mAh Lithium-ion Polymer Battery",
+            "f5":"Mediatek Helio A22 Processor",
+            "f6":"1 Year on Handset and ^ Months on Accessories"
+
+        }
     ]
    
   }
