@@ -1,22 +1,15 @@
 {
-  "name": "fake-restapi",
+  "name": "bankingapp-mock-api",
   "version": "1.0.0",
-  "description": "Demo of the JSON server for fake JSON data",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "json-server --watch db.json"
+    "start" : "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/csjcode/json-server.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/csjcode/json-server/issues"
-  },
-  "homepage": "https://github.com/csjcode/json-server#readme",
   "dependencies": {
-    "json-server": "^0.11.2"
+    "json-server": "^0.16.2"
   }
 }
