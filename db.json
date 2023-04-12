@@ -10,6 +10,607 @@
             "cat": "Men",
             "size": "M",
             "discount":40
+          },
+          {
+            "id": 2,
+            "displayName": "Full Sleeve Solid Men Quilted Jacket",
+            "img": "https://rukminim1.flixcart.com/image/612/612/sweater/z/3/m/973310-roadster-xl-original-imaedmxnsy4mmx2y.jpeg?q=70",
+            "brand": "Peter England",
+            "price": 866,
+            "basePrice": 2465,
+            "cat": "Men",
+            "size": "L",
+            "discount":40
+          },
+          {
+            "id": 3,
+            "displayName": "Full Sleeve Solid Men Quilted Jacket",
+            "img": "https://rukminim1.flixcart.com/image/434/521/kh5607k0/jacket/z/m/n/l-pv-2501-magenta-pivl-original-imafx7ghrph3qmmb.jpeg?q=50",
+            "brand": "Zara",
+            "price": 498,
+            "basePrice": 1499,
+            "cat": "Women",
+            "size": "L",
+            "discount":40
+          },
+          {
+            "id": 4,
+            "displayName": "Black Jacket",
+            "img": "https://rukminim1.flixcart.com/image/580/696/k2z1t3k0/jacket/5/d/z/9-10-years-abjkcrgfx19327-allen-solly-original-imafm4kftqz5ksgt.jpeg?q=50",
+            "brand": "Zara",
+            "price": 1789,
+            "basePrice": 2399,
+            "cat": "Men & Women",
+            "size": "M",
+            "discount":40
+          },
+          {
+            "id": 5,
+            "displayName": "Winter Gloves",
+            "img": "https://rukminim1.flixcart.com/image/434/521/ke1pnrk0/glove/c/w/u/free-reusable-washable-knitted-winter-cotton-gloves-bundle-grey-original-imafusmyse4nzcvx.jpeg?q=50",
+            "brand": "Peter England",
+            "price": 200,
+            "basePrice": 299,
+            "cat": "Men & Women",
+            "size": "S",
+            "discount":40
+          },
+          {
+            "id": 6,
+            "displayName": "Printed Jacket",
+            "img": "https://rukminim1.flixcart.com/image/434/521/kfmv9u80/sweatshirt/h/m/v/5-6-years-mcbaw20ss009b-miss-chief-original-imafwfyvmgefy4tw.jpeg?q=50",
+            "brand": "PUMA",
+            "price": 2400,
+            "basePrice": 2999,
+            "cat": "Boys",
+            "size": "S",
+            "discount":40
+          },
+          {
+            "id": 7,
+            "displayName": "Embellished Sweatshirt",
+            "img": "https://rukminim1.flixcart.com/image/434/521/kebpqq80/sweatshirt/k/c/s/11-12-years-agstergf402586-allen-solly-original-imafvff7brqkx4xd.jpeg?q=50",
+            "brand": "Zara",
+            "price": 1800,
+            "basePrice": 1999,
+            "cat": "Girls",
+            "size": "L",
+            "discount":40
+          },
+          {
+            "id": 8,
+            "displayName": "Embellished Sweatshirt",
+            "img": "https://rukminim1.flixcart.com/image/434/521/kjbr8280-0/jacket/7/a/t/11-12-years-gj04-fort-collins-original-imafywuvnzkvvhxj.jpeg?q=50",
+            "brand": "Peter England",
+            "price": 899,
+            "basePrice": 999,
+            "cat": "Girls",
+            "size": "S",
+            "discount":40
+          },
+          {
+            "id": 10,
+            "displayName": "Mens Casual Premium Slim Fit T-Shirts ",
+            "price": 220,
+            "basePrice": 399,
+            "brand": "PUMA",
+            "cat": "Men",
+            "img": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+              "rate": 4.1,
+              "size": "L",
+              "discount":40
+           
+          },
+          {
+            "id": 11,
+            "displayName": "Mens Cotton Jacket",
+            "price": 550,
+            "brand": "Peter England",
+            "basePrice":799,
+            
+            "cat": "Men",
+            "img": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+             "rate": 4.7,
+             "size": "XL",
+              "discount":40
+            
+          },
+          {
+            "id": 12,
+            "displayName": "Mens Casual Slim Fit",
+            "price": 1500,
+           "basePrice":2999,
+           "brand": "PUMA",
+           "cat":"Men",
+            "img": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+             "rate": 2.1,
+             "size": "L",
+              "discount":40
+            
+          },
+          
+          {
+            "id": 13,
+            "displayName": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "price": 399,
+            "brand": "Peter England",
+            "basePrice":799,
+            "cat": "Men",
+            "img": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+             "rate": 3.8,
+             "size": "XL",
+              "discount":40
+            
+          },
+          {
+            "id": 14,
+            "displayName": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+            "price": 999,
+            "basePrice":1299,
+            "brand": "PUMA",
+           "cat": "Women",
+            "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+             "rate": 4.7,
+             "size": "L",
+              "discount":40
+            
+          },
+          {
+            "id": 15,
+            "displayName": "Opna Women's Short Sleeve Moisture",
+            "price": 799,
+            "brand": "Peter England",
+            "basePrice":1399,
+           "cat": "Women",
+            "img": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+             "rate": 4.5,
+             "size": "S",
+              "discount":40
+            
+          },
+          {
+            "id": 16,
+            "displayName": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "price": 1299,
+            "basePrice":3999,
+            "brand": "PUMA",
+           "cat": "Women",
+            "img": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+             "rate": 3.6,
+             "size": "M",
+              "discount": 40
+            
+          },
+          {
+            "id": 17,
+            "displayName": "Pack of Two",
+            "price":459 ,
+            "basePrice":1999,
+            "brand": "Blive",
+           "cat": "Men",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-t-shirt/c/x/e/13-14-years-bwt-mrrnful-bz55-blive-original-imagg7qzrfxf7cbq.jpeg?q=70",
+             "rate":4.5 ,
+             "size": "X",
+              "discount": 77
+            
+          },
+          {
+            "id":18 ,
+            "displayName": "Pack of Two",
+            "price": 459,
+            "basePrice":1999,
+            "brand": "Blive",
+           "cat": "Men",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-t-shirt/k/3/q/6-7-years-byl-blrnfulboy-bz55-blive-original-imaghbha5pzbrzbz.jpeg?q=70",
+             "rate": 4.6,
+             "size": "L",
+              "discount": 77
+            
+          },
+          {
+            "id": 19,
+            "displayName": "Mens Jeans",
+            "price":1545 ,
+            "basePrice":3299,
+            "brand": "Tommy",
+           "cat": "Men",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/n/i/c/32-kjb-1381-slnkft-bk-killer-original-imagnrpexzrkzeq3.jpeg?q=70",
+             "rate": 4.3,
+             "size": "L",
+              "discount": 53
+            
+          },
+          {
+            "id": 20,
+            "displayName": "Wrangler",
+            "price": 1919,
+            "basePrice":3199,
+            "brand": "Tommy",
+           "cat": "Men",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/b/6/d/32-wmjnsm4437-wrangler-original-imagz66z3gaecx4g.jpeg?q=70",
+             "rate": 4,
+             "size": "XL",
+              "discount": 40
+            
+          },
+          {
+            "id": 21,
+            "displayName": "Mens Shits",
+            "price": 799,
+            "basePrice":1750,
+            "brand": "Zara",
+           "cat": "Men",
+            "img": "https://rukminim1.flixcart.com/image/612/612/klgx0280/shirt/f/x/n/42-sd2163-seven-days-original-imagyh5dx88vekwy.jpeg?q=70",
+             "rate": 4,
+             "size": "XL",
+              "discount":54
+            
+          },
+          {
+            "id":22 ,
+            "displayName": "Mens Shits Casual",
+            "price":288 ,
+            "basePrice":1299,
+            "brand": "Zara",
+           "cat": "Men",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/b/d/f/3xl-13-lstr-wine-vtexx-original-imagnzbummhkgr7p.jpeg?q=70",
+             "rate": 3,
+             "size": "S",
+              "discount": 65
+            
+          },
+
+        
+
+
+          {
+            "id":23 ,
+            "displayName": "Cotton Saree",
+            "price": 379,
+            "basePrice":999,
+            "brand": "Sabyasachi",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/l3lx8cw0/sari/9/o/w/free-sd-306-viruya-unstitched-original-imagezt7k43s5fyc.jpeg?q=70",
+             "rate": 4,
+             "size": "L",
+              "discount": 63
+            
+          },
+          {
+            "id":24 ,
+            "displayName": "Flora Sarees",
+            "price": 499,
+            "basePrice":1999,
+            "brand": "Sabyasachi",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/5/z/k/free-banarasi-saree-kalapushpi-unstitched-original-imagm5vz25z6fmuj.jpeg?q=70",
+             "rate": 3,
+             "size": "XL",
+              "discount": 50
+            
+          },
+          {
+            "id": 25,
+            "displayName": "Self Saree",
+            "price": 737,
+            "basePrice":6499,
+            "brand": "Sabyasachi",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/sari/i/p/u/free-lace-kajal-gajari-navy-blue-perfect-wear-unstitched-original-imagghmvjsttcbvb.jpeg?q=70",
+             "rate": 5,
+             "size": "S",
+              "discount":45
+            
+          },
+          {
+            "id": 26,
+            "displayName": "Woven Kanjiwara",
+            "price": 342,
+            "basePrice":1649,
+            "brand": "Anand Sarees",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/l0zm64w0/sari/x/l/p/free-mc-50-rani-kartvya-unstitched-original-imagcnksmzyktamm.jpeg?q=70",
+             "rate": 4,
+             "size": "L",
+              "discount": 30
+            
+          },
+          {
+            "id":27 ,
+            "displayName": "Women Printed Kurtis",
+            "price": 299,
+            "basePrice":1199,
+            "brand": "Libas",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/k6ci8i80/kurti/h/a/d/m-si-blu-si-and-ku-fabrics-original-imafzzz82hn62xgu.jpeg?q=70",
+             "rate": 4,
+             "size": "S",
+              "discount": 30
+            
+          },
+          {
+            "id": 28,
+            "displayName": "Women Printed Kurtis",
+            "price": 361,
+            "basePrice":1399,
+            "brand": "Libas",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/ktizdzk0/kurta/7/c/j/l-g2372-yellow-gerua-original-imag6ud5hscvufb5.jpeg?q=70",
+             "rate": 3,
+             "size": "M",
+              "discount": 40
+            
+          },
+          {
+            "id": 29,
+            "displayName": "Women Printed Kurtis",
+            "price": 499,
+            "basePrice":1499,
+            "brand": "Libas",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/i/d/n/3xl-nsg-358-saabhi-original-imaghrb4t4wudgfp.jpeg?q=70",
+             "rate": 4,
+             "size": "XL",
+              "discount": 70
+            
+          },
+          {
+            "id": 30,
+            "displayName": "Women Emboride",
+            "price": 489,
+            "basePrice":2999,
+            "brand": "Zara",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/5/9/5/3xl-rayon-zalar-pink-maikey-original-imagh8fcehuhw58u.jpeg?q=70",
+             "rate": 5,
+             "size": "L",
+              "discount": 35
+            
+          },
+          {
+            "id": 31,
+            "displayName": "Women Emboride",
+            "price": 399,
+            "basePrice":1299,
+            "brand": "Zara",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/kg15ocw0-0/kurta/w/j/x/m-9057f-blue-libas-original-imafwd54zhxmffaw.jpeg?q=70",
+             "rate": 5,
+             "size": "XL",
+              "discount": 40
+            
+          },
+          {
+            "id": 32,
+            "displayName": "Women Stripped vi..",
+            "price": 467,
+            "basePrice":1599,
+            "brand": "Zara",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kurta/a/f/a/xxl-bee-1001-fabunna-cotton-original-imagh4qrp2msdgru.jpeg?q=70",
+             "rate": 3,
+             "size": "M",
+              "discount": 60
+            
+          },
+          {
+            "id": 33,
+            "displayName": "Self Design Semi..",
+            "price": 1999,
+            "basePrice":4999,
+            "brand": "Eeloo",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/lehenga-choli/g/g/c/free-half-sleeve-jacquard-lehenga-choli-2023-eeloo-original-imagnx4sz7be8b9w.jpeg?q=70",
+             "rate": 4,
+             "size": "L",
+              "discount": 30
+            
+          },
+          {
+            "id": 34,
+            "displayName": "Self Design Semi..",
+            "price": 2999,
+            "basePrice":14999,
+            "brand": "Eeloo",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/kt7jv680/lehenga-choli/f/n/i/free-sleeveless-l8097-fashionuma-original-imag6hxffsx8hkgh.jpeg?q=70",
+             "rate": 5,
+             "size": "XL",
+              "discount": 30
+            
+          },
+          {
+            "id":35 ,
+            "displayName": "Self Design Semi..",
+            "price": 4999,
+            "basePrice":12999,
+            "brand": "Eeloo",
+           "cat": "Women",
+            "img": "https://rukminim1.flixcart.com/image/612/612/l4u7vrk0/lehenga-choli/a/z/3/free-3-4-sleeve-jannat-maroon-jahal-fashion-original-imagfnap3f9zmnr3.jpeg?q=70",
+             "rate": 3,
+             "size": "L",
+              "discount": 45
+            
+          },
+
+
+
+
+
+
+
+
+
+          {
+            "id": 36,
+            "displayName": "Boys Slim Fit Check Shits",
+            "price": 367,
+            "basePrice":999,
+            "brand": "Zara",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-t-shirt/l/o/m/10-11-years-k67-hood-checkedshirt-white-lewel-original-imagha53qjy6gz4p.jpeg?q=70",
+             "rate":3 ,
+             "size": "L",
+              "discount":30
+            
+          },
+          {
+            "id":37 ,
+            "displayName": "Boys Slim Fit Check Shits",
+            "price": 383,
+            "basePrice":1299,
+            "brand": "Zara",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/6/b/r/7-8-years-663691140260white-urbanmark-original-imagkgp4efvzey2x.jpeg?q=70",
+             "rate": 3,
+             "size": "M",
+              "discount": 45
+            
+          },
+          {
+            "id":38 ,
+            "displayName": "Boys Regular Fit Shirt",
+            "price": 399,
+            "basePrice":999,
+            "brand": "Zara",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/a/i/f/10-11-years-bblogrshirtfulboy-bsr2-blive-original-imaghdffz23sgyvt.jpeg?q=70",
+             "rate": 5,
+             "size": "M",
+              "discount": 60
+            
+          },
+          {
+            "id":39 ,
+            "displayName": "Boys Regular Fit Shirt",
+            "price": 399,
+            "basePrice":1499,
+            "brand": "Zara",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/q/z/n/10-11-years-twtshirtboy-bsh44-tripr-original-imaghdfdkxbhpp68.jpeg?q=70",
+             "rate": 4,
+             "size": "S",
+              "discount": 20
+            
+          },
+          {
+            "id": 40,
+            "displayName": "Boys Regular Fit Shirt",
+            "price":649 ,
+            "basePrice":1199,
+            "brand": "PUMA",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/t/f/x/7-8-years-642282417333yellow-urbanmark-original-imagkgp4h8rz5zyj.jpeg?q=70",
+             "rate": 3,
+             "size": "S",
+              "discount": 25
+            
+          },
+          {
+            "id":41 ,
+            "displayName": "Boys Regular Fit Shirt",
+            "price": 610,
+            "basePrice":1499,
+            "brand": "PUMA",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/f/u/6/-original-imagmdn5kuqxpu75.jpeg?q=70",
+             "rate": 5,
+             "size": "M",
+              "discount": 10
+            
+          },
+          {
+            "id":42 ,
+            "displayName": "Boys Regular Fit Shirt",
+            "price": 299,
+            "basePrice":1999,
+            "brand": "PUMA",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/shirt/a/g/r/13-14-years-twtshirtfulboy-bsh25-tripr-original-imagewftkdked5hg-bb.jpeg?q=70",
+             "rate": 5,
+             "size": "L",
+              "discount": 35
+            
+          },
+          {
+            "id":43,
+            "displayName": "Track pants",
+            "price": 599,
+            "basePrice":999,
+            "brand": "Zara",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-track-pant/h/h/w/11-12-years-bjog-p02-dkgrn-alan-jones-original-imagmezzzydxrjtb.jpeg?q=70",
+             "rate": 4,
+             "size": "S",
+              "discount": 25
+            
+          },
+          {
+            "id": 44,
+            "displayName": "Boys Jeans",
+            "price": 499,
+            "basePrice":1149,
+            "brand": "Zara",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/e/x/p/13-14-years-ukjenon0116-us-polo-kids-original-imagg38hjjyy4haa.jpeg?q=70",
+             "rate": 4,
+             "size": "S",
+              "discount": 50
+            
+          },
+          {
+            "id":45 ,
+            "displayName": "Boys Regular Fit Pants",
+            "price": 759,
+            "basePrice":1459,
+            "brand": "PUMA",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/m/d/3/-original-imagn4by9hsfuzfe.jpeg?q=70",
+             "rate": 5,
+             "size": "M",
+              "discount": 35
+            
+          },
+          {
+            "id": 46,
+            "displayName": "Boys Regular Fit Pants",
+            "price": 1068,
+            "basePrice":2999,
+            "brand": "PUMA",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/s/0/z/-original-imagm82ystqsqvbf.jpeg?q=70",
+             "rate": 3,
+             "size": "M",
+              "discount": 30
+            
+          },
+          {
+            "id": 47,
+            "displayName": "Boys Jeans",
+            "price": 769,
+            "basePrice":1399,
+            "brand": "PUMA",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/l3xcr680/jean/t/i/y/-original-imageyygwrsuafhg.jpeg?q=70",
+             "rate": 4,
+             "size": "S",
+              "discount": 45
+            
+          },
+          {
+            "id": 48,
+            "displayName": "Boys Slim Fit jeans",
+            "price": 349,
+            "basePrice":799,
+            "brand": "Tommy",
+           "cat": "Boys",
+            "img": "https://rukminim1.flixcart.com/image/612/612/kkk1vgw0/jean/f/g/n/7-8-years-j-102-blue-pro-ethic-original-imafzvmgcstgywqf.jpeg?q=70",
+             "rate": 5,
+             "size": "L",
+              "discount": 55
+            
           }
-        ]
-    }
+
+    ]
+   
+  }
