@@ -1,0 +1,15 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "displayName": "Full Sleeve Solid Men Sweater",
+            "img": "https://rukminim1.flixcart.com/image/612/612/jvtujrk0/sweater/x/c/g/m-5300633-roadster-original-imafgmp9z8ky9cem.jpeg?q=70",
+            "brand": "Peter England",
+            "price": 900,
+            "basePrice": 1300,
+            "cat": "Men",
+            "size": "M",
+            "discount":40
+          }
+        ]
+    }
