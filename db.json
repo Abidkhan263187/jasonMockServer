@@ -596,20 +596,8 @@
              "size": "S",
               "discount": 45
             
-          },
-          {
-            "id": 48,
-            "displayName": "Boys Slim Fit jeans",
-            "price": 349,
-            "basePrice":799,
-            "brand": "Tommy",
-           "cat": "Boys",
-            "img": "https://rukminim1.flixcart.com/image/612/612/kkk1vgw0/jean/f/g/n/7-8-years-j-102-blue-pro-ethic-original-imafzvmgcstgywqf.jpeg?q=70",
-             "rate": 5,
-             "size": "L",
-              "discount": 55
-            
           }
+          
 
     ]
    
