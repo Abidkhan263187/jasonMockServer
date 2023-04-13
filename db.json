@@ -783,6 +783,7 @@
     "electronics":[
       {
         "id":1,
+        "brand":"MOTOROLA",
         "displayName":"MOTOROLA tab g70 LTE 4 GB RAM 64 GB ROM 11 inch",
         "price":19999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kyag87k0/tablet/4/n/o/g70-lte-moto-original-imagak3huz7jweyz.jpeg?q=70",
@@ -793,6 +794,7 @@
       },
       {
         "id":2,
+        "brand":"SAMSUMG",
         "displayName":"SAMSUMG Galaxy tab S7+ LTE 4 GB RAM 64 GB ROM 10.61 inch",
         "price":19999,
         "img":"https://rukminim1.flixcart.com/image/612/612/ky7lci80/tablet/e/d/m/sm-x205nzaeinu-samsung-original-imagahrshg78gwvb.jpeg?q=70",
@@ -803,6 +805,7 @@
       },
       {
         "id":3,
+        "brand":"LENOVO",
         "displayName":"LENOVO tab M10 Full HD+ 6 GB RAM 128 GB ROM 10.54 inch",
         "price":20999,
         "img":"https://rukminim1.flixcart.com/image/612/612/xif0q/tablet/t/y/v/zaan0192in-zaan0193in-lenovo-original-imagkzpb8bkhrnha.jpeg?q=70",
@@ -813,6 +816,7 @@
       },
       {
         "id":4,
+        "brand":"realme",
         "displayName":"realme PAD  3 GB RAM 32 GB ROM 10.04 inch",
         "price":15999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kt1u3rk0/tablet/t/j/t/rmp2103-realme-original-imag6h83yvtku7ec.jpeg?q=70",
@@ -823,6 +827,7 @@
       },
       {
         "id":5,
+        "brand":"SAMSUMG",
         "displayName":"SAMSUNG  Galaxy tab S7 FE 6 GB RAM 128 GB ROM 11 inch",
         "price":44999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kq2o2vk0/tablet/2/o/v/sm-t735nlgainu-samsung-original-imag46fhdjaf2nfh.jpeg?q=70",
@@ -833,6 +838,7 @@
       },
       {
         "id":6,
+        "brand":"LENOVO",
         "displayName":"LENOVO tab  (2nd Gen) 4 GB RAM 64 GB ROM 10.54 inch",
         "price":18999,
         "img":"https://rukminim1.flixcart.com/image/612/612/knrsjgw0/tablet/i/a/h/za8j0003in-lenovo-original-imag2dp9r7kckqmq.jpeg?q=70",
@@ -843,6 +849,7 @@
       },
       {
         "id":7,
+        "brand":"MOTOROLA",
         "displayName":"MOTOROLA tab g70 LTE 6 GB RAM 128 GB ROM 11 inch",
         "price":24999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kyag87k0/tablet/4/n/o/g70-lte-moto-original-imagak3huz7jweyz.jpeg?q=70",
@@ -853,6 +860,7 @@
       },
       {
         "id":8,
+        "brand":"APPLE",
         "displayName":"APPLE iPAD (9th Gen) 64 GB ROM 10.63 inch with WIFI",
         "price":29990,
         "img":"https://rukminim1.flixcart.com/image/612/612/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70",
@@ -860,7 +868,19 @@
         "dis":10,
         "rat":3,
         "count":14780
+      },
+      {
+        "id":9,
+        "brand":"APPLE",
+        "displayName":"APPLE iPAD (9th Gen) 64 GB ROM 10.63 inch with WIFI",
+        "price":39990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/xif0q/tablet/x/z/7/-original-imagj72tqndg7rps.jpeg?q=70",
+        "basePrice":33099,
+        "dis":15,
+        "rat":4,
+        "count":1478
       }
+      
     ]
    
   }
