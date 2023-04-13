@@ -616,7 +616,157 @@
             "f5":"Mediatek Helio A22 Processor",
             "f6":"1 Year on Handset and ^ Months on Accessories"
 
-        }
+        },
+        {
+          "id":2,
+          "displayName":"Infinix HOT 30i(Glacier Blue, GB)",
+          "price":8199,
+          "basePrice":9999,
+          "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/w/v/b/-original-imagz3cuzzsyh8ud.jpeg?q=70",
+          "dis":18,
+          "f1":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+          "f2":"16.76 cm (6.6 inch) HD+ Display",
+          "f3":"8MP Rear Camera | 5MP Front Camera",
+          "f4":"5000 mAh Lithium-ion Polymer Battery",
+          "f5":"G37 Processor",
+          "f6":"1 Year on Handset and 6 Months on Accessories"
+
+      },
+      {
+        "id":3,
+        "displayName":"APPLE iPHONE 13",
+        "price":58999,
+        "basePrice":69990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=70",
+        "dis":35,
+        "f1":"8 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "f2":"15.49 cm (6.1 inch) Super Retina XDR DIsplay",
+        "f3":"12MP + 12MP | 12MP Front Camera",
+        "f4":"5000 mAh Lithium-ion Polymer Battery",
+        "f5":"A15 Bionic Chip Processor",
+        "f6":"Brand Warranty for Year"
+
+    },
+    {
+      "id":4,
+      "displayName":"APPLE iPHONE 13 ((PRODUCTED) RED, 128 GB)",
+      "price":5899,
+      "basePrice":69990,
+      "img":"https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/a/m/7/iphone-13-mlpj3hn-a-apple-original-imag6vpyk3w4zarg.jpeg?q=70",
+      "dis":15,
+      "f1":"8 GB RAM | 128 GB ROM | Expandable Upto 512 GB",
+      "f2":"15.49 cm (6.1 inch) Super Retina XDR DIsplay",
+      "f3":"12MP + 12MP | 12MP Front Camera",
+      "f4":"5000 mAh Lithium-ion Polymer Battery",
+      "f5":"A15 Bionic Chip Processor",
+      "f6":"Brand Warranty for Year"
+
+  },
+  {
+    "id":5,
+    "displayName":"SAMSUNG Galaxy Z Fold3 5G (Phantom Green, 256 GB) (12 GB RAM)",
+    "price":149999,
+    "basePrice":171999,
+    "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/2/i/c/-original-imaggvx8zyfjwqyb.jpeg?q=70",
+    "dis":12,
+    "f1":"12 GB RAM | 256 GB ROM ",
+    "f2":"19.3 cm (7.6 inch) Full HD+ Display",
+    "f3":"50MP Rear Camera | 10MP Front Camera",
+    "f4":"4400 mAh Lithium-ion  Battery",
+    "f5":"Qualcomm Snapdragon 8+ Gen 1 Processor",
+    "f6":"1 Year on Handset and ^ Months on Accessories"
+
+},
+{
+  "id":6,
+  "displayName":"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",
+  "price":15990,
+  "basePrice":18490,
+  "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/e/0/c/galaxy-f14-5g-sm-e146blvgins-samsung-original-imagnzdkxyfqhd6r.jpeg?q=70",
+  "dis":13,
+  "f1":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "f2":"16.76 cm (6.6 inch) HD+ Display",
+  "f3":"8MP Rear Camera | 13MP Front Camera",
+  "f4":"6000 mAh Lithium-ion Polymer Battery",
+  "f5":"Exyonos 1330, Octa Processor",
+  "f6":"1 Year on Handset and 6 Months on Accessories"
+
+},
+{
+  "id":7,
+  "displayName":"POCO M4 Pro (Cool Blue,64 GB)",
+  "price":11999,
+  "basePrice":17999,
+  "img":"https://rukminim1.flixcart.com/image/312/312/l0fm07k0/mobile/8/9/n/-original-imagc7tmhcbrarpk.jpeg?q=70",
+  "dis":33,
+  "f1":"6 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "f2":"16.33 cm (6.4 inch) HD+ AMOLED Display",
+  "f3":"64MP + 8MP +2MP | 16MP Front Camera",
+  "f4":"5000 mAh Lithium-ion Polymer Battery",
+  "f5":"Mediatek Helio G96 Processor",
+  "f6":"1 Year on Handset and 6 Months on Accessories"
+
+},
+{
+  "id":8,
+  "displayName":"POCO X5 (Jaguar Black, 256 GB)",
+  "price":18999,
+  "basePrice":23999,
+  "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/8/q/q/-original-imagnqpnkkzmgv7h.jpeg?q=70",
+  "dis":20,
+  "f1":"8 GB RAM | 3256GB ROM | Expandable Upto 1 TB",
+  "f2":"16.94 cm (6.67 inch) HD+ Display",
+  "f3":"48MP + 8MP + 2MP | 13MP Front Camera",
+  "f4":"5000 mAh  Battery",
+  "f5":"Qualcom Snapdragon 695 Processor",
+  "f6":"1 Year on Handset and 6 Months on Accessories"
+
+},
+{
+  "id":9,
+  "displayName":"realme C33 2023 (Night Sea,32 GB)",
+  "price":9999,
+  "basePrice":12999,
+  "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/e/n/j/-original-imaghuf9vphhbnkc.jpeg?q=70",
+  "dis":23,
+  "f1":"4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+  "f2":"16.51 cm (6.5 inch) HD+ Display",
+  "f3":"50MP +0.3MP   | 5MP Front Camera",
+  "f4":"5000 mAh Lithium-ion  Battery",
+  "f5":"Unisoc T612 Processor",
+  "f6":"1 Year on Handset and ^ Months on Accessories"
+
+},
+{
+  "id":10,
+  "displayName":"realme 10 Pro+ 5G (Dark Matter,128 GB)",
+  "price":24999,
+  "basePrice":25999,
+  "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/mobile/v/j/h/-original-imagkp8fvenrrkth.jpeg?q=70",
+  "dis":3,
+  "f1":"6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+  "f2":"17.02 cm (6.7 inch) Full HD+ Display",
+  "f3":"108MP +8MP + 2MP  | 16MP Front Camera",
+  "f4":"5000 mAh  Battery",
+  "f5":"Mediatek Dimensity 1080 5G Processor",
+  "f6":"1 Year on Handset and ^ Months on Accessories"
+
+},
+{
+  "id":11,
+  "displayName":"realme Narzo 50 (Speed Blue,128 GB)",
+  "price":12999,
+  "basePrice":17999,
+  "img":"https://rukminim1.flixcart.com/image/312/312/l0bbonk0/shopsy-mobile/p/k/x/-original-imagc4qj5ejywxnv.jpeg?q=70",
+  "dis":27,
+  "f1":"6 GB RAM | 128 GB ROM | Expandable Upto 256 GB",
+  "f2":"16.76 cm (6.6 inch) Full HD+ Display",
+  "f3":"50MP+ 2MP + 2MP | 16MP Front Camera",
+  "f4":"5000 mAh Lithium-ion Polymer Battery",
+  "f5":"Mediatek Helio G96 Processor",
+  "f6":"1 Year on Handset and ^ Months on Accessories"
+
+}
     ]
    
   }
