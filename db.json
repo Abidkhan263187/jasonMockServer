@@ -795,6 +795,7 @@
       {
         "id":2,
         "brand":"SAMSUMG",
+        "cat":"TABS",
         "displayName":"SAMSUMG Galaxy tab S7+ LTE 4 GB RAM 64 GB ROM 10.61 inch",
         "price":19999,
         "img":"https://rukminim1.flixcart.com/image/612/612/ky7lci80/tablet/e/d/m/sm-x205nzaeinu-samsung-original-imagahrshg78gwvb.jpeg?q=70",
@@ -806,6 +807,7 @@
       {
         "id":3,
         "brand":"LENOVO",
+        "cat":"TABS",
         "displayName":"LENOVO tab M10 Full HD+ 6 GB RAM 128 GB ROM 10.54 inch",
         "price":20999,
         "img":"https://rukminim1.flixcart.com/image/612/612/xif0q/tablet/t/y/v/zaan0192in-zaan0193in-lenovo-original-imagkzpb8bkhrnha.jpeg?q=70",
@@ -817,6 +819,7 @@
       {
         "id":4,
         "brand":"realme",
+        "cat":"TABS",
         "displayName":"realme PAD  3 GB RAM 32 GB ROM 10.04 inch",
         "price":15999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kt1u3rk0/tablet/t/j/t/rmp2103-realme-original-imag6h83yvtku7ec.jpeg?q=70",
@@ -828,6 +831,7 @@
       {
         "id":5,
         "brand":"SAMSUMG",
+        "cat":"TABS",
         "displayName":"SAMSUNG  Galaxy tab S7 FE 6 GB RAM 128 GB ROM 11 inch",
         "price":44999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kq2o2vk0/tablet/2/o/v/sm-t735nlgainu-samsung-original-imag46fhdjaf2nfh.jpeg?q=70",
@@ -839,6 +843,7 @@
       {
         "id":6,
         "brand":"LENOVO",
+        "cat":"TABS",
         "displayName":"LENOVO tab  (2nd Gen) 4 GB RAM 64 GB ROM 10.54 inch",
         "price":18999,
         "img":"https://rukminim1.flixcart.com/image/612/612/knrsjgw0/tablet/i/a/h/za8j0003in-lenovo-original-imag2dp9r7kckqmq.jpeg?q=70",
@@ -850,6 +855,7 @@
       {
         "id":7,
         "brand":"MOTOROLA",
+        "cat":"TABS",
         "displayName":"MOTOROLA tab g70 LTE 6 GB RAM 128 GB ROM 11 inch",
         "price":24999,
         "img":"https://rukminim1.flixcart.com/image/612/612/kyag87k0/tablet/4/n/o/g70-lte-moto-original-imagak3huz7jweyz.jpeg?q=70",
@@ -861,6 +867,7 @@
       {
         "id":8,
         "brand":"APPLE",
+        "cat":"TABS",
         "displayName":"APPLE iPAD (9th Gen) 64 GB ROM 10.63 inch with WIFI",
         "price":29990,
         "img":"https://rukminim1.flixcart.com/image/612/612/ktop5e80/tablet/x/9/o/mk2k3hn-a-apple-original-imag6yy7xjjugz4w.jpeg?q=70",
@@ -869,17 +876,225 @@
         "rat":3,
         "count":14780
       },
+
+
+
+
+
+
+
       {
-        "id":9,
-        "brand":"APPLE",
-        "displayName":"APPLE iPAD (9th Gen) 64 GB ROM 10.63 inch with WIFI",
-        "price":39990,
-        "img":"https://rukminim1.flixcart.com/image/612/612/xif0q/tablet/x/z/7/-original-imagj72tqndg7rps.jpeg?q=70",
-        "basePrice":33099,
+        "id":10,
+        "brand":"CANON",
+        "cat":"CAMERA",
+        "displayName":"Canon EOS 30000D CAmera, 18-55 mm",
+        "price":28990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+        "basePrice":33059,
         "dis":15,
         "rat":4,
-        "count":1478
+        "count":26578
+      },
+      {
+        "id":11,
+        "brand":"NIKON",
+        "cat":"CAMERA",
+        "displayName":"NIKON Z5 Mirrorless Camera 25-200 mm",
+        "price":149990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/kokdci80/dslr-camera/v/e/x/z-24-200mm-z5-nikon-original-imag2zuekuxgxsgg.jpeg?q=70",
+        "basePrice":163099,
+        "dis":20,
+        "rat":5,
+        "count":10478
+      },
+      {
+        "id":12,
+        "brand":"CANON",
+        "cat":"CAMERA",
+        "displayName":"Canon EOS 1500D Camera, 18-55 mm",
+        "price":37999,
+        "img":"https://rukminim1.flixcart.com/image/612/612/kk01pjk0/dslr-camera/f/v/o/eos-1500d-canon-original-imafzfugydh2mjgf.jpeg?q=70",
+        "basePrice":41099,
+        "dis":25,
+        "rat":3,
+        "count":1058
+      },
+      {
+        "id":13,
+        "brand":"SONY",
+        "cat":"CAMERA",
+        "displayName":"SONY ZV- E10L Mirrorless Camera Body with 1650 mm",
+        "price":61999,
+        "img":"https://rukminim1.flixcart.com/image/612/612/ktlu9ow0/dslr-camera/r/y/j/alpha-zv-e10-24-2-megapixel-with-interchangeable-lens-aps-c-original-imag6wxxhxrv9htc.jpeg?q=70",
+        "basePrice":69099,
+        "dis":35,
+        "rat":5,
+        "count":2586
+      },
+      {
+        "id":14,
+        "brand":"SONY",
+        "cat":"CAMERA",
+        "displayName":"SONY ALPHA-ILCE Full Frame Mirrorless Camera Body with 1650 mm",
+        "price":239990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/l08gsy80/dslr-camera/s/e/b/-original-imagc2cz2hyqgwmn.jpeg?q=70",
+        "basePrice":243099,
+        "dis":10,
+        "rat":3,
+        "count":45
+      },
+      {
+        "id":15,
+        "brand":"CANON",
+        "cat":"CAMERA",
+        "displayName":"Canon EOS 200D Camera, 18-55 mm",
+        "price":55990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/juwzf680/dslr-camera/g/a/q/200d-ii-200d-ii-canon-original-imaffvrhzyqzayys.jpeg?q=70",
+        "basePrice":61099,
+        "dis":40,
+        "rat":4,
+        "count":14785
+      },
+      {
+        "id":16,
+        "brand":"CANON",
+        "cat":"CAMERA",
+        "displayName":"Canon EOS M50 Camera, 26-85 mm",
+        "price":59990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/knyxqq80/dslr-camera/r/y/x/digital-camera-eos-m50-mark-ii-eos-m50-mark-ii-canon-original-imag2gzkexzqhyhu.jpeg?q=70",
+        "basePrice":79099,
+        "dis":55,
+        "rat":5,
+        "count":12878
+      },
+      {
+        "id":17,
+        "brand":"NIKON",
+        "cat":"CAMERA",
+        "displayName":"NIKON Z30 Mirrorless Camera Body Only",
+        "price":50990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/l5iid8w0/dslr-camera/h/h/z/z30-20-9-vok110xa-nikon-original-imagg62ezh98vugb.jpeg?q=70",
+        "basePrice":67099,
+        "dis":55,
+        "rat":4,
+        "count":1278
+      },
+      {
+        "id":18,
+        "brand":"NIKON",
+        "cat":"CAMERA",
+        "displayName":"NIKON Z6 kit Mirrorless Camera 24-70mm lens",
+        "price":189990,
+        "img":"https://rukminim1.flixcart.com/image/612/612/kq9ta4w0/dslr-camera/w/z/n/z6-ii-z6-ii-kit-nikon-original-imag4btqjmu73zfk.jpeg?q=70",
+        "basePrice":209099,
+        "dis":25,
+        "rat":4,
+        "count":147825
+      },
+
+
+
+
+
+
+      {
+        "id":19,
+        "brand":"HP",
+        "cat":"LCD",
+        "displayName":"HP M Series 27 inch Full HD LED Backlit IPS Panel ",
+        "price":14990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/ksc46fk0/monitor/b/y/l/m27f-2h0n1aa-acj-hp-original-imag5x3znkjbchwt.jpeg?q=70",
+        "basePrice":21099,
+        "dis":25,
+        "rat":4,
+        "count":14825
+      },
+      {
+        "id":19,
+        "brand":"HP",
+        "cat":"LCD",
+        "displayName":"HP M Series 23 inch Full HD LED Backlit IPS Panel (M24f) ",
+        "price":12990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/kox8b680/monitor/v/m/g/m24f-2e2y4aa-acj-hp-original-imag39t3zqstr4zg.jpeg?q=70",
+        "basePrice":15099,
+        "dis":15,
+        "rat":3,
+        "count":17825
+      },
+      {
+        "id":20,
+        "brand":"HP",
+        "cat":"LCD",
+        "displayName":"HP G Series 27 inch Full HD LED Backlit IPS Panel (M24f) ",
+        "price":13990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/xif0q/monitor/0/9/l/v27i-g5-full-hd-27-65p65aa-hp-original-imagngqsyvq8b4ke.jpeg?q=70",
+        "basePrice":16099,
+        "dis":40,
+        "rat":5,
+        "count":14725
+      },
+      {
+        "id":22,
+        "brand":"DEL",
+        "cat":"LCD",
+        "displayName":"DELL S Series 27 inch Full HD IPS Panel Ultra Slim",
+        "price":14990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/kmp7ngw0/monitor/j/z/h/s2721hn-27-py0df-dell-original-imagfjphuywuh2a7.jpeg?q=70",
+        "basePrice":28099,
+        "dis":25,
+        "rat":4,
+        "count":10785
+      },
+      {
+        "id":23,
+        "brand":"DEL",
+        "cat":"LCD",
+        "displayName":"DELL SE Series 27 inch Full-BlackLit HD IPS Panel Ultra Slim",
+        "price":9990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/kr3tj0w0/monitor/j/h/s/se2422h-24-se2422h-dell-original-imag4zaejxdgkv8f.jpeg?q=70",
+        "basePrice":19999,
+        "dis":30,
+        "rat":3,
+        "count":1525
+      },
+      {
+        "id":24,
+        "brand":"DEL",
+        "cat":"LCD",
+        "displayName":"DELL P_ Series 27 inch Full HD IPS Panel",
+        "price":15849,
+        "img":"https://rukminim1.flixcart.com/image/312/312/kst9gnk0/monitor/v/j/z/p2422h-full-hd-24-210-bbdd-dell-original-imag6arzt5cqpqkq.jpeg?q=70",
+        "basePrice":20099,
+        "dis":45,
+        "rat":3,
+        "count":128525
+      },
+      {
+        "id":25,
+        "brand":"ACER",
+        "cat":"LCD",
+        "displayName":"acer 21.5 inch Full HD IPS PAnel White Color Ultra Slim Monitor",
+        "price":189990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/kfmv9u80/monitor/9/n/v/ha220q-um-ww0si-a01-acer-original-imafwfjq3gzgjvz5.jpeg?q=70",
+        "basePrice":8399,
+        "dis":55,
+        "rat":5,
+        "count":24825
+      },
+      {
+        "id":26,
+        "brand":"ACER",
+        "cat":"LCD",
+        "displayName":"acer 27 inch Full HD IPS Full BAcklit Color Ultra Slim Monitor",
+        "price":13990,
+        "img":"https://rukminim1.flixcart.com/image/312/312/ks0onm80/monitor/w/6/6/ha270-um-hw0si-a01-acer-original-imag5zjnk4yad4uz.jpeg?q=70",
+        "basePrice":17099,
+        "dis":15,
+        "rat":3,
+        "count":1825
       }
+
+
       
     ]
    
