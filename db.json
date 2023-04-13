@@ -604,6 +604,7 @@
 
         {
             "id":1,
+            "brand":"infinix",
             "displayName":"Infinix Smart 6 HD (Origin Blue,32 GB)",
             "price":5799,
             "basePrice":8999,
@@ -619,6 +620,7 @@
         },
         {
           "id":2,
+          "brand":"infinix",
           "displayName":"Infinix HOT 30i(Glacier Blue, GB)",
           "price":8199,
           "basePrice":9999,
@@ -634,6 +636,7 @@
       },
       {
         "id":3,
+        "brand":"APPLE",
         "displayName":"APPLE iPHONE 13",
         "price":58999,
         "basePrice":69990,
@@ -649,6 +652,7 @@
     },
     {
       "id":4,
+      "brand":"APPLE",
       "displayName":"APPLE iPHONE 13 ((PRODUCTED) RED, 128 GB)",
       "price":5899,
       "basePrice":69990,
@@ -664,6 +668,7 @@
   },
   {
     "id":5,
+    "brand":"SAMSUMG",
     "displayName":"SAMSUNG Galaxy Z Fold3 5G (Phantom Green, 256 GB) (12 GB RAM)",
     "price":149999,
     "basePrice":171999,
@@ -679,6 +684,7 @@
 },
 {
   "id":6,
+  "brand":"SAMSUMG",
   "displayName":"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)",
   "price":15990,
   "basePrice":18490,
@@ -694,6 +700,7 @@
 },
 {
   "id":7,
+  "brand":"POCO",
   "displayName":"POCO M4 Pro (Cool Blue,64 GB)",
   "price":11999,
   "basePrice":17999,
@@ -709,6 +716,7 @@
 },
 {
   "id":8,
+  "brand":"POCO",
   "displayName":"POCO X5 (Jaguar Black, 256 GB)",
   "price":18999,
   "basePrice":23999,
@@ -724,6 +732,7 @@
 },
 {
   "id":9,
+  "brand":"realme",
   "displayName":"realme C33 2023 (Night Sea,32 GB)",
   "price":9999,
   "basePrice":12999,
@@ -739,6 +748,7 @@
 },
 {
   "id":10,
+  "brand":"realme",
   "displayName":"realme 10 Pro+ 5G (Dark Matter,128 GB)",
   "price":24999,
   "basePrice":25999,
@@ -754,6 +764,7 @@
 },
 {
   "id":11,
+  "brand":"realme",
   "displayName":"realme Narzo 50 (Speed Blue,128 GB)",
   "price":12999,
   "basePrice":17999,
