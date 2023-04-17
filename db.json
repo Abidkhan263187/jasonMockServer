@@ -1162,5 +1162,98 @@
       "f6": "1 Year on Handset and ^ Months on Accessories",
       "count": 1825
     }
+  ],
+
+  "topOffers":[
+      {
+        "price": 4999,
+        "displayName": "Wireless Bluetooth Earbuds",
+        "img": "https://rukminim1.flixcart.com/image/612/612/kpinwy80/headphone/x/r/e/mmef2hn-a-apple-original-imag3qe9hphsevrt.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 6999,
+        "discount": 28
+      },
+      {
+        "price": 99999,
+        "displayName": "Gaming Laptop",
+        "img": "https://rukminim1.flixcart.com/image/612/612/l3rmzrk0/computer/s/z/r/-original-imagetgzg4pgszmt.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 119999,
+        "discount": 16
+      },
+      {
+        "price": 3999,
+        "displayName": "Smartphone Tripod",
+        "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/tripod/tripod/i/0/u/3110-portable-and-foldable-tripod-with-mobile-clip-holder-original-imaghpyzgscxfn7r.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 4999,
+        "discount": 20
+      },
+      {
+        "price": 14999,
+        "displayName": "Wireless Smart Speaker",
+        "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/speaker/mobile-tablet-speaker/c/p/7/ace-tg-113-splash-proof-3d-sound-with-high-bass-6hr-playtime-10-original-imaggrazan7az6nh.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 19999,
+        "discount": 25
+      },
+      {
+        "price": 19999,
+        "displayName": "Smartwatch",
+        "img": "https://rukminim1.flixcart.com/image/612/612/l5ld8y80/smartwatch/r/q/t/-original-imagg8dksgct9hxg.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 24999,
+        "discount": 20
+      },
+      {
+        "price": 79999,
+        "displayName": "TOSHIBA 4K Ultra HD Smart TV",
+        "img": "https://rukminim1.flixcart.com/image/312/312/xif0q/television/b/c/7/-original-imaggz6zd5rchpuq.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 99999,
+        "discount": 20
+      },
+      {
+        "price": 2999,
+        "displayName": "Wireless Charging Pad",
+        "img": "https://rukminim1.flixcart.com/image/612/612/l4ssfww0/charging-pad/s/p/b/pro-pad-100-15w-charger-for-qi-certified-phones-samsung-airpods-original-imagfm4nmthd5vfk.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 3999,
+        "discount": 25
+      },
+      {
+        "price": 12999,
+        "displayName": "Smart Home Security Camera",
+        "img": "https://rukminim1.flixcart.com/image/612/612/kz7bcsw0/home-security-camera/g/b/o/2-b08r8zv78r-indoor-security-camera-maizic-smarthome-original-imagb9q8446wtjef.jpeg?q=70",
+        "rat": 4,
+        "basePrice": 15999,
+        "discount": 18
+      },
+      {
+        "price": 14999,
+        "displayName": "Wireless Noise-Canceling Headphones",
+        "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/headphone/u/f/u/-original-imagn478sxbywfgf.jpeg?q=70",
+        "rat": 48,
+        "basePrice": 19999,
+        "discount": 25
+      },
+      {
+        "price": 29999,
+        "displayName": "VR Headset",
+        "img": "https://rukminim1.flixcart.com/image/612/612/kl175ow0/smart-glass/o/z/n/ir-mn01-irusu-original-imagy9ywuxuem7s7.jpeg?q=70",
+        "rat": 45,
+        "basePrice": 39999,
+        "discount": 25
+      },
+      {
+        "price": 49.99,
+        "displayName": "Wireless Gaming Mouse",
+        "img": "https://rukminim1.flixcart.com/image/612/612/kxnl6kw0/mouse/m/3/y/wireless-gaming-mouse-rechargeable-500-mah-battery-upto-3200-dpi-original-imaga2da2gfehfyg.jpeg?q=70",
+        "rat": 4.3,
+        "basePrice": 59.99,
+        "discount": 16.67
+      }
+     
+    
   ]
 }
