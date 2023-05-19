@@ -545,6 +545,11 @@
       "discount": 45
     }
   ],
+
+
+
+
+
   "mobiles": [
     {
       "id": 1,
@@ -580,7 +585,7 @@
       "id": 3,
       "brand": "APPLE",
       "displayName": "APPLE iPHONE 13",
-      "price": 58999,
+      "price": 5899,
       "basePrice": 69990,
       "img": "https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/6/n/d/iphone-13-mlpg3hn-a-apple-original-imag6vpyghayhhrh.jpeg?q=70",
       "discount": 35,
@@ -1164,10 +1169,15 @@
     }
   ],
 
+
+
+
+
+
   "topOffers":[
       {
 
-"id": 1,      
+       "id": 1,      
         "price": 499,
         "displayName": "Wireless Bluetooth Earbuds",
         "img": "https://rukminim1.flixcart.com/image/612/612/kpinwy80/headphone/x/r/e/mmef2hn-a-apple-original-imag3qe9hphsevrt.jpeg?q=70",
