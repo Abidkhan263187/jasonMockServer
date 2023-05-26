@@ -96,7 +96,7 @@
       "brand": "PUMA",
       "cat": "Men",
       "img": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-      "rate": 4.1,
+      "rate": 4,
       "size": "L",
       "discount": 40
     },
@@ -108,7 +108,7 @@
       "basePrice": 799,
       "cat": "Men",
       "img": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-      "rate": 4.7,
+      "rate": 4,
       "size": "XL",
       "discount": 40
     },
@@ -144,7 +144,7 @@
       "brand": "PUMA",
       "cat": "Women",
       "img": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-      "rate": 4.7,
+      "rate": 4,
       "size": "L",
       "discount": 40
     },
@@ -156,7 +156,7 @@
       "basePrice": 1399,
       "cat": "Women",
       "img": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-      "rate": 4.5,
+      "rate": 4,
       "size": "S",
       "discount": 40
     },
@@ -180,7 +180,7 @@
       "brand": "Blive",
       "cat": "Men",
       "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-t-shirt/c/x/e/13-14-years-bwt-mrrnful-bz55-blive-original-imagg7qzrfxf7cbq.jpeg?q=70",
-      "rate": 4.5,
+      "rate": 4,
       "size": "X",
       "discount": 77
     },
@@ -192,7 +192,7 @@
       "brand": "Blive",
       "cat": "Men",
       "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/kids-t-shirt/k/3/q/6-7-years-byl-blrnfulboy-bz55-blive-original-imaghbha5pzbrzbz.jpeg?q=70",
-      "rate": 4.6,
+      "rate": 4,
       "size": "L",
       "discount": 77
     },
@@ -204,7 +204,7 @@
       "brand": "Tommy",
       "cat": "Men",
       "img": "https://rukminim1.flixcart.com/image/612/612/xif0q/jean/n/i/c/32-kjb-1381-slnkft-bk-killer-original-imagnrpexzrkzeq3.jpeg?q=70",
-      "rate": 4.3,
+      "rate": 4,
       "size": "L",
       "discount": 53
     },
@@ -546,10 +546,6 @@
     }
   ],
 
-
-
-
-
   "mobiles": [
     {
       "id": 1,
@@ -717,6 +713,7 @@
       "f6": "1 Year on Handset and ^ Months on Accessories"
     }
   ],
+
   "electron": [
     {
       "id": 1,
@@ -1171,9 +1168,6 @@
 
 
 
-
-
-
   "topOffers":[
       {
 
@@ -1277,5 +1271,290 @@
       }
      
     
+  ],
+
+
+
+  
+  "chairs":[
+    {
+      "id": 1,
+      "name": "Ergonomic Office Chair",
+      "price": 189,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/kgruiph8leqiu2ke3fhw_medium.jpg?v=1675965444",
+      "mrp": 219,
+      "discount": 13,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "Modern Accent Chair",
+      "price": 149,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/CR49_1_medium.jpg?v=1578613523",
+      "mrp": 169,
+      "discount": 12,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Leather Recliner Chair",
+      "price": 299,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/103507_BRONTE_ARMCHAIR_1_medium.jpg?v=1578613505",
+      "mrp": 329,
+      "discount": 9,
+      "rating": 3
+    },
+    {
+      "id": 4,
+      "name": "Vintage Rocking Chair",
+      "price": 139,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/CR55_1_medium.jpg?v=1578613524",
+      "mrp": 159,
+      "discount": 12,
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "Swivel Gaming Chair",
+      "price": 199,
+      "image": "https://example.com/chair5.jpg",
+      "mrp": 229,
+      "discount": 13,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "Modern Lounge Chair",
+      "price": 279,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/CR42_1_medium.jpg?v=1578613523",
+      "mrp": 309,
+      "discount": 10,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "Foldable Beach Chair",
+      "price": 49,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/PTWC21507_medium.jpg?v=1619446269",
+      "mrp": 59,
+      "discount": 17,
+      "rating": 3
+    },
+    {
+      "id": 8,
+      "name": "Executive Office Chair",
+      "price": 249,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/shopify-image_100c6e0b-0ee2-4fda-a1b5-87b1d75d7323_medium.jpg?v=1598640738",
+      "mrp": 279,
+      "discount": 11,
+      "rating": 2
+    },
+    {
+      "id": 9,
+      "name": "Wooden Dining Chair",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/TYL2RDSC_5FAC_medium.jpg?v=1637347416",
+      "mrp": 99,
+      "discount": 10,
+      "rating": 4
+    },
+    {
+      "id": 10,
+      "name": "Mesh Back Task Chair",
+      "price": 119,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/shopify-image_c26089b0-84c3-478c-b83c-4c99b49b819b_medium.jpg?v=1626373168",
+      "mrp": 139,
+      "discount": 14,
+      "rating": 5
+    }
+    
+  ],
+
+  "sofas":[
+    {
+      "id": 1,
+      "name": "Modern Sectional Sofa",
+      "price": 899,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/zfeuijx1ipfaqddn8jec_5ddec84c-bb1a-4bd4-9f8f-f0409e2ca26a_medium.jpg?v=1598979715",
+      "mrp": 999,
+      "discount": 10,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "name": "Leather Reclining Sofa",
+      "price": 1299,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/jsaz6yhgukas3qde1tqa_9f40a5c5-d968-44ad-894f-296b3760c8ae_medium.jpg?v=1675965284",
+      "mrp": 1499,
+      "discount": 13,
+      "rating": 2
+    },
+    {
+      "id": 3,
+      "name": "Convertible Sleeper Sofa",
+      "price": 549,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/shopify-image_a6fa3eb1-c388-4ce9-a914-c9ea3e4384cf_medium.jpg?v=1681837487",
+      "mrp": 599,
+      "discount": 8,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "L-Shaped Chaise Sofa",
+      "price": 799,
+      "image": "https://example.com/sofa4pg",
+      "mrp": 899,
+      "discount": 11,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "name": "Mid-Century Modern Sofa",
+      "price": 699,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/102018_medium.jpg?v=1660834538",
+      "mrp": 799,
+      "discount": 12,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "Velvet Tufted Sofa",
+      "price": 899,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/TOV-S4930-1_medium.jpg?v=1598040524",
+      "mrp": 999,
+      "discount": 10,
+      "rating": 2
+    },
+    {
+      "id": 7,
+      "name": "Sleeper Sectional Sofa",
+      "price": 1199,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/Shopify_JPEG-Daisy_23001834_SB_3Qtr_medium.jpg?v=1675180310",
+      "mrp": 1399,
+      "discount": 14,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Microfiber Recliner Sofa",
+      "price": 899,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/Shopify_JPEG-Harvey_05910120_S_3Qrt1_medium.jpg?v=1674165455",
+      "mrp": 999,
+      "discount": 10,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Chaise Lounge Sofa",
+      "price": 649,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/Shopify_JPEG-Mallory_58D85150_S_3Qtr_medium.jpg?v=1675354422",
+      "mrp": 749,
+      "discount": 13,
+      "rating": 3
+    },
+    {
+      "id": 10,
+      "name": "Traditional Chesterfield Sofa",
+      "price": 999,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/wes2bkft_ac_medium.jpg?v=1678909375",
+      "mrp": 1099,
+      "discount": 9,
+      "rating": 2
+    }
+  ],
+
+  "tables":[
+    {
+      "id": 1,
+      "name": "Modern Dining Table",
+      "price": 499,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/CHE3TRP5_5FCG_87c20bea-6a0e-4dfe-9f9f-979c17d7fbc9_medium.jpg?v=1603806672",
+      "mrp": 599,
+      "discount": 17,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "Coffee Table with Storage",
+      "price": 299,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/shopify-image_fb801f80-5fb0-40d8-80d8-5833e962e600_medium.jpg?v=1678909402",
+      "mrp": 349,
+      "discount": 14,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Round Glass Side Table",
+      "price": 149,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/Leo_23753622_TBL-copy_871e4214-ba43-4ddd-8e07-ee118b0137a3_medium.jpg?v=1675965408",
+      "mrp": 169,
+      "discount": 12,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "Wooden Console Table",
+      "price": 249,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/CHE3WDTL_5FAC_ae316cd0-c137-4576-8faf-d4746d3a6353_medium.jpg?v=1603806650",
+      "mrp": 299,
+      "discount": 17,
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "name": "Industrial Writing Desk",
+      "price": 349,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/Shopify_JPEG-Dean_79D68008_ConTBL_3Qtr_medium.jpg?v=1675180310",
+      "mrp": 399,
+      "discount": 13,
+      "rating": 2
+    },
+    {
+      "id": 6,
+      "name": "Folding Outdoor Table",
+      "price": 89,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/TOV-OC18277-1_medium.jpg?v=1598040514",
+      "mrp": 99,
+      "discount": 10,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "name": "Glass Top End Table",
+      "price": 129,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/afymiy8mhkd3nhkrgtv4_8f7a1810-09d3-4c1c-860c-de0cb89a8431_medium.jpg?v=1681837673",
+      "mrp": 149,
+      "discount": 13,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "name": "Marble Dining Table",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/5568-787pcdiningwith5229Schairs_noBG_medium.jpg?v=1674059128",
+      "mrp": 899,
+      "discount": 11,
+      "rating": 3
+    },
+    {
+      "id": 9,
+      "name": "Study Desk with Drawers",
+      "price": 199,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/shopify-image_aa5cb66d-3cb5-4496-b7b8-c266ca3f254b_medium.jpg?v=1637346942",
+      "mrp": 229,
+      "discount": 13,
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "name": "Rustic Bedside Table",
+      "price": 119,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/FORGE2NS_AC_medium.jpg?v=1637347420",
+      "mrp": 139,
+      "discount": 14,
+      "rating": 4
+    }
   ]
+  
+  
 }
