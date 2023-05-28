@@ -1554,7 +1554,32 @@
       "discount": 14,
       "rating": 4
     }
+  ],
+  "users": [
+    {
+      "name": "Abid khan",
+      "email": "abidkhan263187@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "furnitureCart":[
+    {
+      "id": 1,
+      "name": "Modern Sectional Sofa",
+      "price": 899,
+      "image": "https://cdn.shopify.com/s/files/1/2660/5236/products/zfeuijx1ipfaqddn8jec_5ddec84c-bb1a-4bd4-9f8f-f0409e2ca26a_medium.jpg?v=1598979715",
+      "mrp": 999,
+      "discount": 10,
+      "rating": 3
+    }
   ]
+
+
+
+
+
+ 
   
   
 }
