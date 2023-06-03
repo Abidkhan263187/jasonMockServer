@@ -1287,9 +1287,10 @@
       "image4":"https://rukminim1.flixcart.com/image/416/416/l0r1j0w0/office-study-chair/y/d/v/51-pp-polypropylene-1-am-5001beige-savya-home-130-original-imagchygawhp9fch.jpeg?q=70",
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/office-study-chair/h/m/h/1-iron-71-12-ag-9001-savya-home-125-original-imagjztxtwwmaqk8.jpeg?q=70",
       "mrp": 219,
+      "cat":"office",
       "discount": 13,
       "quantity":1,
-
+      "manufacturer":"AK_Design",
       "rating": 4
     },
     {
@@ -1302,6 +1303,8 @@
       "image4":"https://rukminim1.flixcart.com/image/128/128/kw9krrk0/office-study-chair/m/w/7/45-72-iron-1-verona-mid-back-sturdy-metal-base-nylon-mesh-original-imag8zd2wr69etnz.jpeg?q=70",
       "image5":"https://rukminim1.flixcart.com/image/128/128/kw9krrk0/office-study-chair/i/f/l/45-72-iron-1-verona-mid-back-sturdy-metal-base-nylon-mesh-original-imag8zd2f7yqwdga.jpeg?q=70",
       "mrp": 169,
+      "manufacturer":"Accent",
+     "cat":"study",
       "discount": 12,
       "quantity":1,
 
@@ -1311,13 +1314,15 @@
       "id": 3,
       "name": "Leather Recliner Chair",
       "price": 299,
-      "image": "https://rukminim1.flixcart.com/image/416/416/ku79vgw0/office-study-chair/n/c/9/53-34-teak-sagun-1-js-1bl-beaatho-121-92-original-imag7dp2jjnxkj9y.jpeg?q=70",
-      "image2":"https://rukminim1.flixcart.com/image/416/416/ku79vgw0/office-study-chair/n/c/9/53-34-teak-sagun-1-js-1bl-beaatho-121-92-original-imag7dp2jjnxkj9y.jpeg?q=70",
-      "image3":"https://rukminim1.flixcart.com/image/416/416/ku79vgw0/office-study-chair/a/k/h/53-34-teak-sagun-1-js-1bl-beaatho-121-92-original-imag7dp2chppxshk.jpeg?q=70",
-      "image4":"https://rukminim1.flixcart.com/image/416/416/ku79vgw0/office-study-chair/r/h/p/53-34-teak-sagun-1-js-1bl-beaatho-121-92-original-imag7dp25dkguzpb.jpeg?q=70",
-      "image5":"https://rukminim1.flixcart.com/image/416/416/koono280/office-study-chair/4/e/m/1-teak-sagun-js-31bl-beaatho-original-imag32xx469hghq3.jpeg?q=70",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/rocking-chair/1/d/m/60-1-seater-rosewood-sheesham-101-25-green-98-brown-wooden-original-imaghw4vxstnhfq3.jpeg?q=70",
+      "image2":"https://rukminim1.flixcart.com/image/416/416/xif0q/rocking-chair/1/d/m/60-1-seater-rosewood-sheesham-101-25-green-98-brown-wooden-original-imaghw4vxstnhfq3.jpeg?q=70",
+      "image3":"https://rukminim1.flixcart.com/image/416/416/xif0q/rocking-chair/z/l/b/60-1-seater-rosewood-sheesham-101-25-green-98-brown-wooden-original-imaghw4vrcf5sdrf.jpeg?q=70",
+      "image4":"https://rukminim1.flixcart.com/image/416/416/xif0q/rocking-chair/0/x/z/50-1-seater-rosewood-sheesham-101-20-white-1-black-wooden-luxury-original-imaghw472vaagywb.jpeg?q=70",
+      "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/rocking-chair/a/o/k/60-1-seater-rosewood-sheesham-101-25-green-98-brown-wooden-original-imaghw4vvbnackg3.jpeg?q=70",
       "mrp": 329,
       "discount": 9,
+      "manufacturer":"Chairable",
+      "cat":"office",
       "quantity":1,
 
       "rating": 3
@@ -1332,6 +1337,8 @@
       "image4":"https://rukminim1.flixcart.com/image/416/416/kiulxu80-0/dining-chair/b/q/r/2-cream-cushion-rosewood-sheesham-kw-kj33-kendalwood-furniture-original-imafykyd5cdjh6fx.jpeg?q=70",
       "image5":"https://rukminim1.flixcart.com/image/416/416/l2ghgnk0/dining-set/p/c/j/172-72-cream-0-0-rosewood-sheesham-35-square-45-72-101-6-35-88-9-original-imagdsg6tzdfhvxx.jpeg?q=70",
       "mrp": 159,
+      "cat":"living",
+      "manufacturer":"Chairable",
       "discount": 12,
       "quantity":1,
 
@@ -1347,6 +1354,8 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/gaming-chair/y/m/0/snipe-gaming-chair-adjustable-headrest-lumbar-support-original-imagpfznaghbvtbh.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/gaming-chair/y/c/t/snipe-gaming-chair-adjustable-headrest-lumbar-support-original-imagpfznyfkuacc5.jpeg?q=70",
       "mrp": 229,
+      "cat":"study",
+      "manufacturer":"AK_Design",
       "discount": 13,
       "quantity":1,
 
@@ -1362,6 +1371,8 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/living-room-chair/i/6/u/red-velvet-oswald-red-kepler-brooks-red-original-imagmhuugaghcngp.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/living-room-chair/n/9/d/red-velvet-oswald-red-kepler-brooks-red-original-imagmhuur4jmd6yv.jpeg?q=70",
       "mrp": 309,
+      "cat":"living",
+      "manufacturer":"Chairable",
       "discount": 10,
       "quantity":1,
 
@@ -1377,6 +1388,8 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/outdoor-chair/l/v/x/carbon-steel-adjustable-folding-zero-gravity-reclining-lounge-original-imagh28yqe6a3nzm.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/outdoor-chair/c/1/a/carbon-steel-zero-gravity-reclining-lounge-portable-chair-maroon-original-imagh28ybmcfyaep.jpeg?q=70",
       "mrp": 59,
+      "cat":"living",
+      "manufacturer":"Accent",
       "discount": 17,
       "quantity":1,
       "rating": 3
@@ -1391,6 +1404,8 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/l2p23rk0/office-study-chair/d/a/e/1-microfiber-46-0-c104-pgreen-cellbell-89-0-original-imagdz66gce5seyk.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/l4n2oi80/office-study-chair/h/3/m/-original-imagfhzyyhffnt4y.jpeg?q=70",
       "mrp": 279,
+      "manufacturer":"AK_Design",
+      "cat":"office",
       "discount": 11,
       "quantity":1,
 
@@ -1406,6 +1421,8 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/dining-chair/h/c/p/440-2-cream-rosewood-sheesham-450-15-wd-dc-0012-woodecore-1100-original-imaghhygfnhfwnky.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/dining-chair/q/8/s/440-2-cream-rosewood-sheesham-450-15-wd-dc-0012-woodecore-1100-original-imaghhygtgebcgvz.jpeg?q=70",
       "mrp": 99,
+      "cat":"dining",
+      "manufacturer":"Gold_Furniture",
       "discount": 10,
       "quantity":1,
       "rating": 4
@@ -1420,6 +1437,8 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/ksru0sw0/office-study-chair/y/i/a/46-leatherette-1-c54-cellbell-96-original-imag69f2zshxhvce.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/l1l1rww0/office-study-chair/j/x/j/-original-imagd4em5f9mrthx.jpeg?q=70",
       "mrp": 139,
+      "cat":"study",
+      "manufacturer":"Accent",
       "discount": 14,
       "quantity":1,
       "rating": 5
@@ -1438,6 +1457,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/klcmoi80/sofa-sectional/x/5/p/right-facing-brown-polycotton-article01-eltop-tan-brown-creme-original-imagyhkbh8zvdyrc.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/klcmoi80/sofa-sectional/c/p/h/right-facing-brown-polycotton-article01-eltop-tan-brown-creme-original-imagyhkbgmxbybsb.jpeg?q=70",
       "mrp": 999,
+      "manufacturer":"Gold_Furniture",
       "discount": 10,
       "quantity":1,
 
@@ -1453,6 +1473,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/recliner/t/n/u/76-2-1-seater-brown-78-74-suede-leather-jb-wayde-manual-rc-1s-original-imaghhnvw6zjzfc7.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/recliner/t/i/p/76-2-1-seater-brown-78-74-suede-leather-jb-wayde-manual-rc-1s-original-imaghhnvcpd8zsgj.jpeg?q=70",
       "mrp": 1499,
+      "manufacturer":"AK_Design",
       "discount": 13,
       "quantity":1,
 
@@ -1470,7 +1491,7 @@
       "mrp": 599,
       "discount": 8,
       "quantity":1,
-
+      "manufacturer":"Chairable",
       "rating": 4
     },
     {
@@ -1483,6 +1504,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/l4n2oi80/sofa-sectional/u/0/h/-original-imagfhzdzfhggads.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/l4n2oi80/sofa-sectional/j/k/4/-original-imagfhzykvmfdpmb.jpeg?q=70",
       "mrp": 899,
+      "manufacturer":"Gold_Furniture",
       "discount": 11,
       "quantity":1,
 
@@ -1499,6 +1521,7 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/kzvlua80/sofa-sectional/l/b/x/right-facing-215-9-cream-brown-chenille-274-32-60-777-creambrown-original-imagbsm9xbjghn6y.jpeg?q=70",
       "mrp": 799,
       "discount": 12,
+      "manufacturer":"Accent",
       "quantity":1,
       "rating": 3
     },
@@ -1512,6 +1535,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/kziqvm80/sofa-set/c/2/b/72-9-0-black-grey-velvet-3-2-2-207-97-25-0-0-34-0-152-98-original-imagbgbtxetknnzg.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/l4n2oi80/sofa-set/1/a/9/-original-imagfhzygzwcvtkq.jpeg?q=70",
       "mrp": 999,
+      "manufacturer":"AK_Design",
       "discount": 10,
       "quantity":1,
 
@@ -1528,6 +1552,7 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/sofa-sectional/p/m/f/symmetrical-34-5-beige-81-5-na-no-600-novogratz-vintage-tufted-original-imaggk7nhfxcfjey.jpeg?q=70",
       "mrp": 1399,
       "discount": 14,
+      "manufacturer":"Accent",
       "quantity":1,
 
       "rating": 4
@@ -1544,7 +1569,7 @@
       "mrp": 999,
       "discount": 10,
       "quantity":1,
-
+      "manufacturer":"Gold_Furniture",
       "rating": 5
     },
     {
@@ -1559,7 +1584,7 @@
       "mrp": 749,
       "discount": 13,
       "quantity":1,
-
+      "manufacturer":"AK_Design",
       "rating": 3
     },
     {
@@ -1572,7 +1597,7 @@
       "image4":"https://rukminim1.flixcart.com/image/416/416/xif0q/lounger-chaise/l/y/a/white-velvet-velvet-sofa-white-furniture-hub-dark-gray-velvet-original-imaggbsy9bgzy6tf.jpeg?q=70",
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/lounger-chaise/b/b/q/white-velvet-velvet-sofa-white-furniture-hub-dark-gray-velvet-original-imaggbsyg34y9wy7.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/lounger-chaise/y/8/l/white-velvet-velvet-sofa-white-furniture-hub-dark-gray-velvet-original-imaggbsya9xyxhdv.jpeg?q=70",
-      
+      "manufacturer":"Accent",
       "mrp": 1099,
       "discount": 9,
       "quantity":1,
@@ -1592,6 +1617,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/l2ghgnk0/dining-set/p/c/j/172-72-cream-0-0-rosewood-sheesham-35-square-45-72-101-6-35-88-9-original-imagdsg6tzdfhvxx.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/kidgnm80-0/dining-set/l/p/e/8-seater-white-rosewood-sheesham-hhfk-64-kendalwood-furniture-original-imafy6hakfwjyvgh.jpeg?q=70",
       "mrp": 599,
+      "manufacturer":"Chairable",
       "discount": 17,
       "quantity":1,
       "rating": 4
@@ -1606,6 +1632,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/coffee-table/l/l/o/55-mdf-55-1-5-nesting-triangle-end-coffee-table-nightstand-original-imagjtf5yux25arr.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/coffee-table/c/r/0/55-mdf-55-1-5-nesting-triangle-end-coffee-table-nightstand-original-imagjtf5ygbczkqv.jpeg?q=70",
       "mrp": 349,
+      "manufacturer":"AK_Design",
       "discount": 14,
       "quantity":1,
       "rating": 5
@@ -1620,9 +1647,9 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/xif0q/side-table/a/r/l/50-tempered-glass-50-22-bst-152-end-table-ng-decor-53-black-original-imagkqrgmahkzhkn.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/side-table/u/c/v/50-tempered-glass-50-22-bst-152-end-table-ng-decor-53-black-original-imagkqrguzjk8ysg.jpeg?q=70",
       "mrp": 169,
+      "manufacturer":"AK_Design",
       "discount": 12,
       "quantity":1,
-
       "rating": 4
     },
     {
@@ -1635,9 +1662,10 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/kpwybgw0/side-table/l/x/a/rosewood-sheesham-console-table-06-console-table-top-10wood-original-imag4fkkb5zzt5ve.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/kpwybgw0/side-table/l/x/a/rosewood-sheesham-console-table-06-console-table-top-10wood-original-imag4fkkb5zzt5ve.jpeg?q=70",
       "mrp": 299,
-      "discount": 17,
-      "quantity":1,
 
+      "discount": 17,
+      "manufacturer":"Gold_Furniture",
+      "quantity":1,
       "rating": 3
     },
     {
@@ -1651,8 +1679,8 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/office-study-table/6/g/0/158-plywood-engineered-wood-st-62-ng-decor-74-brown-original-imaghbfzkgqfqan8.jpeg?q=70",
       "mrp": 399,
       "discount": 13,
+      "manufacturer":"Accent",
       "quantity":1,
-
       "rating": 2
     },
     {
@@ -1666,8 +1694,8 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/kvfkivk0/computer-table/b/u/u/30-plywood-12-2-8796-morris-54-brwon-and-black-original-imag8bthczfrfhvu.jpeg?q=70",
       "mrp": 99,
       "discount": 10,
+      "manufacturer":"Accent",
       "quantity":1,
-
       "rating": 4
     },
     {
@@ -1682,7 +1710,7 @@
       "mrp": 149,
       "discount": 13,
       "quantity":1,
-
+      "manufacturer":"Chairable",
       "rating": 5
     },
     {
@@ -1696,8 +1724,8 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/dining-set/d/x/y/grey-rosewood-sheesham-rectangle-4-seater-dou-fsd-327-douceur-original-imagqykq2nadkazb.jpeg?q=70",
       "mrp": 899,
       "discount": 11,
+      "manufacturer":"AK_Design",
       "quantity":1,
-
       "rating": 3
     },
     {
@@ -1710,6 +1738,7 @@
       "image5":"https://rukminim1.flixcart.com/image/416/416/kbl4cy80/computer-table/5/h/j/plywood-ncptwn-studio-kook-walnut-original-imafsws22zrwztgx.jpeg?q=70",
       "image": "https://rukminim1.flixcart.com/image/416/416/ktszgy80/computer-table/d/a/w/plywood-ncptwn-studio-kook-walnut-original-imag72h3baxcfhcs.jpeg?q=70",
       "mrp": 229,
+      "manufacturer":"Gold_Furniture",
       "discount": 13,
       "quantity":1,
 
@@ -1726,6 +1755,7 @@
       "image": "https://rukminim1.flixcart.com/image/416/416/kz1lle80/bedsheet/o/r/h/3d-print-box-print-flat-jksrh-original-imagb4t8ppacbhce.jpeg?q=70",
       "mrp": 139,
       "discount": 14,
+      "manufacturer":"Gold_Furniture",
       "quantity":1,
 
       "rating": 4
