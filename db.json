@@ -2621,11 +2621,29 @@
   ],
   "users": [
     {
-      "name": "Abid khan",
+      "name": "Abid",
       "email": "abidkhan263187@gmail.com",
       "password": "123",
       "id": 1
     }
   ],
-  "furnitureCart": []
+  "furnitureCart": [
+    {
+      "id": 1,
+      "name": "Modern Dining Table",
+      "price": 499,
+      "image2": "https://rukminim1.flixcart.com/image/416/416/kidgnm80-0/dining-set/l/p/e/8-seater-white-rosewood-sheesham-hhfk-64-kendalwood-furniture-original-imafy6hakfwjyvgh.jpeg?q=70",
+      "image3": "https://rukminim1.flixcart.com/image/416/416/kidgnm80-0/dining-set/q/d/u/8-seater-white-rosewood-sheesham-hhfk-64-kendalwood-furniture-original-imafy6hayaqkxadc.jpeg?q=70",
+      "image4": "https://rukminim1.flixcart.com/image/416/416/kidgnm80-0/dining-set/5/g/j/4-seater-na-rosewood-sheesham-hhfk-1-kendalwood-furniture-warm-original-imafy6h4zpj6hcwf.jpeg?q=70",
+      "image5": "https://rukminim1.flixcart.com/image/416/416/l2ghgnk0/dining-set/p/c/j/172-72-cream-0-0-rosewood-sheesham-35-square-45-72-101-6-35-88-9-original-imagdsg6tzdfhvxx.jpeg?q=70",
+      "image": "https://rukminim1.flixcart.com/image/416/416/kidgnm80-0/dining-set/l/p/e/8-seater-white-rosewood-sheesham-hhfk-64-kendalwood-furniture-original-imafy6hakfwjyvgh.jpeg?q=70",
+      "mrp": 599,
+      "manufacturer": "Chairable",
+      "cat": "dining",
+      "discount": 17,
+      "quantity": 1,
+      "rating": 4
+    }
+    
+  ]
 }
